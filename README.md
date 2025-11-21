@@ -1,3 +1,1 @@
-# A3-PetShopMoreira
-
-University coursework project focusing on **Object-Oriented Programming (OOP)**
+Academic project for an Object-Oriented Programming (OOP) discipline.
