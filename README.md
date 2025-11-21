@@ -1,1 +1,1 @@
-Academic project for the Object-Oriented Programming (OOP) discipline.
+Academic project developed for the Object-Oriented Programming (OOP) discipline.
